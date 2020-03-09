@@ -27,7 +27,7 @@ and
 
 ```
 cd ./back-end
-yarn run dev:server
+yarn dev:server
 ```
 
 

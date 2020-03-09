@@ -1,4 +1,4 @@
 node_modules
 back-end/dist
-front-end/dist
+front-end/build
 *.lock

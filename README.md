@@ -36,7 +36,7 @@ yarn dev:server
 http://localhost:3001/users
 ```
 
-### Back-end:
+### Front-end:
 ```
 http://localhost:3000
 ```
